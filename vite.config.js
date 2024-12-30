@@ -5,5 +5,3 @@ export default defineConfig({
   plugins: [vue()],
   base: '/latest/', // Base de tu repositorio
 });
-
-
